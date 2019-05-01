@@ -182,7 +182,7 @@ class ModmailBot(Bot):
         logger.info(info('││││ │ │││││├─┤││'))
         logger.info(info('┴ ┴└─┘─┴┘┴ ┴┴ ┴┴┴─┘'))
         logger.info(info(f'v{__version__}'))
-        logger.info(info('Authors: kyb3r, fourjr, Taaku18'))
+        logger.info(info('Authors: Aaryaman01'))
         logger.info(LINE)
 
         for file in os.listdir('cogs'):
